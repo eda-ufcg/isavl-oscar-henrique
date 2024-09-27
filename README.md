@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Oscar Henrique Torreão Vilar de Brito
+* Email (@ccc): oscar.henrique.torreao.vilar.brito@ccc.ufcg.edu.br
+* Matrícula: 123110603
 
 # Roteiro: isAVL
 
